@@ -9,10 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-accordion": "^1.2.8",
+    "@radix-ui/react-dialog": "^1.1.13",
+    "@radix-ui/react-menubar": "^1.1.14",
     "@radix-ui/react-popover": "^1.1.11",
     "@radix-ui/react-progress": "^1.1.4",
     "@radix-ui/react-slot": "^1.2.0",
     "@radix-ui/react-tabs": "^1.1.9",
+    "@tiptap/extension-color": "^2.11.9",
+    "@tiptap/react": "^2.11.9",
+    "@tiptap/starter-kit": "^2.11.9",
+    "@tsparticles/slim": "^3.8.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
@@ -21,7 +28,9 @@
     "react": "^19.0.0",
     "react-day-picker": "^8.10.1",
     "react-dom": "^19.0.0",
-    "tailwind-merge": "^3.2.0"
+    "react-tsparticles": "^2.12.2",
+    "tailwind-merge": "^3.2.0",
+    "tsparticles": "^3.8.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
